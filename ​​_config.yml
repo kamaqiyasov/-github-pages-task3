@@ -1,4 +1,4 @@
-title: "Тестовый сайт"
-description: "Описание моего сайта"
-theme: jekyll-theme-cayman
-url: "https://kamaqiyasov.github.io/-github-pages-task3/"
+title: "Мой сайт"
+theme: minima
+url: "https://kamaqiyasov.github.io"
+baseurl: "/-github-pages-task3"
