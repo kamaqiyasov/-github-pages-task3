@@ -1,5 +1,4 @@
-title: "Portfolio"  
-description: "Test site" 
-theme: jekyll-theme-architect
-author: 
-  name: "Kamil Qiyasov"
+title: "Тестовый сайт"
+description: "Описание моего сайта"
+theme: jekyll-theme-minimal
+url: "https://kamaqiyasov.github.io/-github-pages-task3/"
