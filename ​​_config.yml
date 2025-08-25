@@ -1,4 +1,6 @@
-title: "Мой сайт"
 theme: minima
+title: "Мой сайт"
 url: "https://kamaqiyasov.github.io"
 baseurl: "/-github-pages-task3"
+plugins:
+  - jekyll-README-md
